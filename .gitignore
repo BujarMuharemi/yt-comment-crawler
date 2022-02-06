@@ -1,3 +1,7 @@
+#the env var file for the dev enviroment
+comment-crawler/dev.env
+
+# ##### Part below ist auto-generated from github #####
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

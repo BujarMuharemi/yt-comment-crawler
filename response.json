@@ -1,0 +1,2131 @@
+{
+    "etag": "5DZ6udNGm47X1H_x4hoxJ3TGW7k",
+    "items": [
+        {
+            "etag": "AqRDIvR-HKCloQcMBgT3bIO2uyc",
+            "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+            "kind": "youtube#commentThread",
+            "replies": {
+                "comments": [
+                    {
+                        "etag": "xHqhStPBsRZrzwJyIpWWsY9WmBY",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9Y60oFS-VbP",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCQZdOlXDn3Vsj2WcJmWPSrg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCQZdOlXDn3Vsj2WcJmWPSrg",
+                            "authorDisplayName": "Gigi Kartveli",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSX8vePfsFT_3lXcpYVo24L5MKIfQ4X4gMkwg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-02-06T10:47:47Z",
+                            "textDisplay": "Pakistani and India RUleeeeeeeeee!",
+                            "textOriginal": "Pakistani and India RUleeeeeeeeee!",
+                            "updatedAt": "2022-02-06T10:47:47Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "QCk4Qs5EGkAzCgv_QuFpvtTPjUM",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XuYSKWNpzR",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCTW5-e2O6gEg-5rg-WT6pJQ"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCTW5-e2O6gEg-5rg-WT6pJQ",
+                            "authorDisplayName": "Michal Gumb\u00edr",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQw2U51eSWLXJpCYMvxOfJKW0XxrEYAlhSa3RbGJgYez3mPGT9EiOiWUnRDbS6r=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-02-01T14:31:38Z",
+                            "textDisplay": "Trueee",
+                            "textOriginal": "Trueee",
+                            "updatedAt": "2022-02-01T14:31:38Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "bpTr4skvRdpwbNDlFAftOF4cTlw",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XaRgdDiKQv",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC-QNNbLcGOiDveFBakIA_EA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC-QNNbLcGOiDveFBakIA_EA",
+                            "authorDisplayName": "TechTopia",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/cXSgy4IYlBfcFIzFjNM2h5pployZNK75uqegt2FUlm2XTEZ0wAkhfWs9mmwHmjt0K_kZgVw7=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-01-24T19:07:45Z",
+                            "textDisplay": "Facts",
+                            "textOriginal": "Facts",
+                            "updatedAt": "2022-01-24T19:07:45Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "lw43mQsja9ZiQRJt6sP0wGZuJrw",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XQt1vYwnCV",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCxol6GqY3M6RlzpX06b3iPg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCxol6GqY3M6RlzpX06b3iPg",
+                            "authorDisplayName": "pranay bhandekar",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRY7z4R9RcYYNya8aXVXltTyByEwrOiavWqyQ=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-01-20T16:43:48Z",
+                            "textDisplay": "Yes bro \ud83d\ude02",
+                            "textOriginal": "Yes bro \ud83d\ude02",
+                            "updatedAt": "2022-01-20T16:43:48Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "8tdQrAJ0RhtWYDqjqXtdmgUk_gw",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XFJDk3f5zo",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCOvktulM2Yb4Gv-pxMUy0VA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCOvktulM2Yb4Gv-pxMUy0VA",
+                            "authorDisplayName": "Awake \ud83d\udd25\ud83d\ude33",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/YtMA36RW1ANtlmdgL1fe_QPDMMLOmkdJYrEwQoif--eayC65Gtu4zM9X7myxxYQd2d3wLM4S0g=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-01-16T04:50:28Z",
+                            "textDisplay": "<a href=\"https://youtube.com/shorts/agXQyPu0FJU?feature=share\">https://youtube.com/shorts/agXQyPu0FJU?feature=share</a><br>Sigma motivations",
+                            "textOriginal": "https://youtube.com/shorts/agXQyPu0FJU?feature=share\nSigma motivations",
+                            "updatedAt": "2022-01-16T04:50:28Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    }
+                ]
+            },
+            "snippet": {
+                "canReply": true,
+                "isPublic": true,
+                "topLevelComment": {
+                    "etag": "OUrr5sh6OduIQWSE0vSzWj6vpUQ",
+                    "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                    "kind": "youtube#comment",
+                    "snippet": {
+                        "authorChannelId": {
+                            "value": "UCzxdAPtLjCCEVBSD9EAVUhw"
+                        },
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCzxdAPtLjCCEVBSD9EAVUhw",
+                        "authorDisplayName": "Atharv Sachan",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/lgqkk_aiPdOgKQTmaNvp83S8XR1Ip1W1mtMkQiXdYPT7q3Av4bRaQdFfQaWMwY-sXNZ_Wsl0iA=s48-c-k-c0x00ffffff-no-rj",
+                        "canRate": true,
+                        "likeCount": 7331,
+                        "publishedAt": "2021-08-08T08:24:36Z",
+                        "textDisplay": "This compilation is well balanced with Pakistani and Indian memes good job",
+                        "textOriginal": "This compilation is well balanced with Pakistani and Indian memes good job",
+                        "updatedAt": "2021-08-08T08:24:36Z",
+                        "videoId": "2f9yv-T1QNM",
+                        "viewerRating": "none"
+                    }
+                },
+                "totalReplyCount": 88,
+                "videoId": "2f9yv-T1QNM"
+            }
+        },
+        {
+            "etag": "TB3EEHpzi-jvufDZy3q5DFkTAgQ",
+            "id": "UgwDHLxGqdXuq5Scj714AaABAg",
+            "kind": "youtube#commentThread",
+            "replies": {
+                "comments": [
+                    {
+                        "etag": "2k4jIYwIA7-MZN-NYhwMX7osThw",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9Y2-jKkTzDP",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC9KtnMGenrOxM1FsIwsicqA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC9KtnMGenrOxM1FsIwsicqA",
+                            "authorDisplayName": "Satyrolog",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR3nRYe5hYfnxV-B8eMgL11XXR6pwGZ-jXWU59D=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2022-02-04T21:21:25Z",
+                            "textDisplay": "Guys u know that is satire? Making fun from people who think they are \u201csigma\u201d\u2026 ahhhh",
+                            "textOriginal": "Guys u know that is satire? Making fun from people who think they are \u201csigma\u201d\u2026 ahhhh",
+                            "updatedAt": "2022-02-04T21:21:25Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "BIJdnVy_OghkrORdxGmdsMXiaLc",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9Y-pvAoKFR6",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCo7NRkUTxAnj_3M1l1cNZGA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCo7NRkUTxAnj_3M1l1cNZGA",
+                            "authorDisplayName": "XEON",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/9vt0BDq3ISBbwozoL4spe37JlDSLaVPupC3PkmS6SOAEmb3yKOVWq-8wiLa6JCdbEBz0xaYBgQ=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2022-02-04T01:08:26Z",
+                            "textDisplay": "Yeah despite the memes I truly try to apply the sigma male concept along with red pill and the meaning of giga chad",
+                            "textOriginal": "Yeah despite the memes I truly try to apply the sigma male concept along with red pill and the meaning of giga chad",
+                            "updatedAt": "2022-02-04T01:08:26Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "lhUz_AlQ6CeJKrFjgvIiXSHPwVE",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9XmuCNYdBab",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCu-JpLoE6UbYWVrHpCokY9w"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCu-JpLoE6UbYWVrHpCokY9w",
+                            "authorDisplayName": "Prem Sharma",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSZLjcKicWOI1SEGYf58-XYqDPH60w8Xr_9ciKG2d8=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2022-01-29T15:16:30Z",
+                            "textDisplay": "True",
+                            "textOriginal": "True",
+                            "updatedAt": "2022-01-29T15:16:30Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "13gq4UU4cVEJr1HSttPDItsB3jQ",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9W1dlZRbb4m",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC8FMpgKGoFyKsmA0cewO8hg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC8FMpgKGoFyKsmA0cewO8hg",
+                            "authorDisplayName": "Garfi",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQDBmXATUWqi3KRNDcSCxbnzL13HzHY3PReCyZCzg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2021-12-17T00:57:57Z",
+                            "textDisplay": "@sigmagrindsets21 Wtf you are supposed to slap woman",
+                            "textOriginal": "@sigmagrindsets21 Wtf you are supposed to slap woman",
+                            "updatedAt": "2021-12-17T00:57:57Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "TjJ6yAGbCQvvSSnRnAQgxGY0b6o",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9Vqbcb4M8rn",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCUohO9bliP4UwDvMtAGF3Wg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCUohO9bliP4UwDvMtAGF3Wg",
+                            "authorDisplayName": "EA \u00d6\u011frencisi (100k)",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/XWf35tMx0HbQhr79dhCOgs0C9mRpEVr2rX9IQjpCvcwGz5xrGn10sOqPQQlf6-Vv6-UZ-dquCg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2021-12-12T08:48:22Z",
+                            "textDisplay": "yeahhh dude",
+                            "textOriginal": "yeahhh dude",
+                            "updatedAt": "2021-12-12T08:48:22Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    }
+                ]
+            },
+            "snippet": {
+                "canReply": true,
+                "isPublic": true,
+                "topLevelComment": {
+                    "etag": "inkI0RwEJsdWYFZLD-5uD0PJTI8",
+                    "id": "UgwDHLxGqdXuq5Scj714AaABAg",
+                    "kind": "youtube#comment",
+                    "snippet": {
+                        "authorChannelId": {
+                            "value": "UCd0eE0ZSXitAlL_TX4syTmg"
+                        },
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCd0eE0ZSXitAlL_TX4syTmg",
+                        "authorDisplayName": "Hardik Upadhyay",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ3oEt6ml-CT8i1MxUn6dzAIAXDKdkDOTR5HhcPYw=s48-c-k-c0x00ffffff-no-rj",
+                        "canRate": true,
+                        "likeCount": 2467,
+                        "publishedAt": "2021-11-02T10:39:49Z",
+                        "textDisplay": "Sigma memes are deadly combo of humour and motivation\ud83d\ude02\ud83d\udcaf",
+                        "textOriginal": "Sigma memes are deadly combo of humour and motivation\ud83d\ude02\ud83d\udcaf",
+                        "updatedAt": "2021-11-02T10:39:49Z",
+                        "videoId": "2f9yv-T1QNM",
+                        "viewerRating": "none"
+                    }
+                },
+                "totalReplyCount": 17,
+                "videoId": "2f9yv-T1QNM"
+            }
+        },
+        {
+            "etag": "cecU0F02wIZ7qAe6yepUUu4543E",
+            "id": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+            "kind": "youtube#commentThread",
+            "replies": {
+                "comments": [
+                    {
+                        "etag": "ssvfNiNP7ZhzMTzSI9OQXLDD99A",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9XkY_rL45_O",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC0T1FQ9lXeZfSdKjvg4o2Dw"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC0T1FQ9lXeZfSdKjvg4o2Dw",
+                            "authorDisplayName": "ASHOK M.K",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTwhrRyxUs60IVYI-bQWlfGqfCYa8G__RWqLHUprg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 1,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-28T17:20:23Z",
+                            "textDisplay": "By Madara???",
+                            "textOriginal": "By Madara???",
+                            "updatedAt": "2022-01-28T17:20:23Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "t4G6D14wp0iKRRaTsfjpsAo1Trk",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9XLd9gxpjvn",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCyn2CogYDT2f_AeVTQloPPA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCyn2CogYDT2f_AeVTQloPPA",
+                            "authorDisplayName": "Minecraft Farlands",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/KTN_lL4CoaMyxoDB4gCBdmZOzObctffEBPanFzv_7RPvQGm1PoU7rzlGv3_qZW6H3nE-8-_h=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 2,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-18T15:48:51Z",
+                            "textDisplay": "Same I do that",
+                            "textOriginal": "Same I do that",
+                            "updatedAt": "2022-01-18T15:48:51Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "vHBGan5PGmfsJqgij_hDwXCzhNA",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9X8dwolXKE-",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCg-fxZKRGxI-RP_W_k4DMGQ"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCg-fxZKRGxI-RP_W_k4DMGQ",
+                            "authorDisplayName": "Bhai great",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/Vu_7okNSYsiIHR_orB-BaHqA-vlIzLjvXNzH4_YH008VUuCYQ6nbwA6-4ydea0OAqeF-1XnF-g=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-13T14:45:34Z",
+                            "textDisplay": "\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+                            "textOriginal": "\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+                            "updatedAt": "2022-01-13T14:45:34Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "nkFuhsEDCZV6xIzNu8k0ndMtFJ4",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9WsdJUdvTCC",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCb3QICuxHVucpjkOmiuMFog"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCb3QICuxHVucpjkOmiuMFog",
+                            "authorDisplayName": "Alternate 12",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRt4kmjdbtLMas1feROYEfq_hDLCmfe3ABBHLeTcdP0toH8A0MH7bXTCcUCdx_s=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 4,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-07T00:12:58Z",
+                            "textDisplay": "I always follow that",
+                            "textOriginal": "I always follow that",
+                            "updatedAt": "2022-01-07T00:12:58Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    }
+                ]
+            },
+            "snippet": {
+                "canReply": true,
+                "isPublic": true,
+                "topLevelComment": {
+                    "etag": "dJz_U-JUh9_SPFTGgYy9UO-XgbM",
+                    "id": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                    "kind": "youtube#comment",
+                    "snippet": {
+                        "authorChannelId": {
+                            "value": "UCvdFZHyxdcsffvvYwuBYDRQ"
+                        },
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCvdFZHyxdcsffvvYwuBYDRQ",
+                        "authorDisplayName": "hampter",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/LhWpPhnTBZqjZt_jss5PGWZtfAWXP8QK7BKOczDLVIEayt3WOZ3spnXLy9BRp42BiClWPMV8vA=s48-c-k-c0x00ffffff-no-rj",
+                        "canRate": true,
+                        "likeCount": 273,
+                        "publishedAt": "2022-01-04T09:05:43Z",
+                        "textDisplay": "\u201cNever underestimate your enemy. Always overestimate them and be disappointed.\u201d<br><br>-Sigma Rule 352",
+                        "textOriginal": "\u201cNever underestimate your enemy. Always overestimate them and be disappointed.\u201d\n\n-Sigma Rule 352",
+                        "updatedAt": "2022-01-04T09:06:00Z",
+                        "videoId": "2f9yv-T1QNM",
+                        "viewerRating": "none"
+                    }
+                },
+                "totalReplyCount": 4,
+                "videoId": "2f9yv-T1QNM"
+            }
+        }
+    ],
+    "kind": "youtube#commentThreadListResponse",
+    "nextPageToken": "QURTSl9pMFNUbzhUMm9RUER5V1lOYm5vVHBkOHMwMW9HVWpRZkhJd3BkSjlkRmMtRFBpQklvTDllZGYwM1hwMmw1eFRkTlZITEpYZ2ttZlI3eDZ5Mm9GSVFGM0lHcFdDbEpoSDQ3RVRiQm8=",
+    "pageInfo": {
+        "resultsPerPage": 3,
+        "totalResults": 3
+    }
+}{
+    "etag": "5DZ6udNGm47X1H_x4hoxJ3TGW7k",
+    "items": [
+        {
+            "etag": "AqRDIvR-HKCloQcMBgT3bIO2uyc",
+            "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+            "kind": "youtube#commentThread",
+            "replies": {
+                "comments": [
+                    {
+                        "etag": "xHqhStPBsRZrzwJyIpWWsY9WmBY",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9Y60oFS-VbP",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCQZdOlXDn3Vsj2WcJmWPSrg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCQZdOlXDn3Vsj2WcJmWPSrg",
+                            "authorDisplayName": "Gigi Kartveli",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSX8vePfsFT_3lXcpYVo24L5MKIfQ4X4gMkwg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-02-06T10:47:47Z",
+                            "textDisplay": "Pakistani and India RUleeeeeeeeee!",
+                            "textOriginal": "Pakistani and India RUleeeeeeeeee!",
+                            "updatedAt": "2022-02-06T10:47:47Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "QCk4Qs5EGkAzCgv_QuFpvtTPjUM",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XuYSKWNpzR",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCTW5-e2O6gEg-5rg-WT6pJQ"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCTW5-e2O6gEg-5rg-WT6pJQ",
+                            "authorDisplayName": "Michal Gumb\u00edr",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQw2U51eSWLXJpCYMvxOfJKW0XxrEYAlhSa3RbGJgYez3mPGT9EiOiWUnRDbS6r=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-02-01T14:31:38Z",
+                            "textDisplay": "Trueee",
+                            "textOriginal": "Trueee",
+                            "updatedAt": "2022-02-01T14:31:38Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "bpTr4skvRdpwbNDlFAftOF4cTlw",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XaRgdDiKQv",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC-QNNbLcGOiDveFBakIA_EA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC-QNNbLcGOiDveFBakIA_EA",
+                            "authorDisplayName": "TechTopia",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/cXSgy4IYlBfcFIzFjNM2h5pployZNK75uqegt2FUlm2XTEZ0wAkhfWs9mmwHmjt0K_kZgVw7=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-01-24T19:07:45Z",
+                            "textDisplay": "Facts",
+                            "textOriginal": "Facts",
+                            "updatedAt": "2022-01-24T19:07:45Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "lw43mQsja9ZiQRJt6sP0wGZuJrw",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XQt1vYwnCV",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCxol6GqY3M6RlzpX06b3iPg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCxol6GqY3M6RlzpX06b3iPg",
+                            "authorDisplayName": "pranay bhandekar",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRY7z4R9RcYYNya8aXVXltTyByEwrOiavWqyQ=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-01-20T16:43:48Z",
+                            "textDisplay": "Yes bro \ud83d\ude02",
+                            "textOriginal": "Yes bro \ud83d\ude02",
+                            "updatedAt": "2022-01-20T16:43:48Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "8tdQrAJ0RhtWYDqjqXtdmgUk_gw",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XFJDk3f5zo",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCOvktulM2Yb4Gv-pxMUy0VA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCOvktulM2Yb4Gv-pxMUy0VA",
+                            "authorDisplayName": "Awake \ud83d\udd25\ud83d\ude33",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/YtMA36RW1ANtlmdgL1fe_QPDMMLOmkdJYrEwQoif--eayC65Gtu4zM9X7myxxYQd2d3wLM4S0g=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-01-16T04:50:28Z",
+                            "textDisplay": "<a href=\"https://youtube.com/shorts/agXQyPu0FJU?feature=share\">https://youtube.com/shorts/agXQyPu0FJU?feature=share</a><br>Sigma motivations",
+                            "textOriginal": "https://youtube.com/shorts/agXQyPu0FJU?feature=share\nSigma motivations",
+                            "updatedAt": "2022-01-16T04:50:28Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    }
+                ]
+            },
+            "snippet": {
+                "canReply": true,
+                "isPublic": true,
+                "topLevelComment": {
+                    "etag": "OUrr5sh6OduIQWSE0vSzWj6vpUQ",
+                    "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                    "kind": "youtube#comment",
+                    "snippet": {
+                        "authorChannelId": {
+                            "value": "UCzxdAPtLjCCEVBSD9EAVUhw"
+                        },
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCzxdAPtLjCCEVBSD9EAVUhw",
+                        "authorDisplayName": "Atharv Sachan",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/lgqkk_aiPdOgKQTmaNvp83S8XR1Ip1W1mtMkQiXdYPT7q3Av4bRaQdFfQaWMwY-sXNZ_Wsl0iA=s48-c-k-c0x00ffffff-no-rj",
+                        "canRate": true,
+                        "likeCount": 7331,
+                        "publishedAt": "2021-08-08T08:24:36Z",
+                        "textDisplay": "This compilation is well balanced with Pakistani and Indian memes good job",
+                        "textOriginal": "This compilation is well balanced with Pakistani and Indian memes good job",
+                        "updatedAt": "2021-08-08T08:24:36Z",
+                        "videoId": "2f9yv-T1QNM",
+                        "viewerRating": "none"
+                    }
+                },
+                "totalReplyCount": 88,
+                "videoId": "2f9yv-T1QNM"
+            }
+        },
+        {
+            "etag": "TB3EEHpzi-jvufDZy3q5DFkTAgQ",
+            "id": "UgwDHLxGqdXuq5Scj714AaABAg",
+            "kind": "youtube#commentThread",
+            "replies": {
+                "comments": [
+                    {
+                        "etag": "2k4jIYwIA7-MZN-NYhwMX7osThw",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9Y2-jKkTzDP",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC9KtnMGenrOxM1FsIwsicqA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC9KtnMGenrOxM1FsIwsicqA",
+                            "authorDisplayName": "Satyrolog",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR3nRYe5hYfnxV-B8eMgL11XXR6pwGZ-jXWU59D=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2022-02-04T21:21:25Z",
+                            "textDisplay": "Guys u know that is satire? Making fun from people who think they are \u201csigma\u201d\u2026 ahhhh",
+                            "textOriginal": "Guys u know that is satire? Making fun from people who think they are \u201csigma\u201d\u2026 ahhhh",
+                            "updatedAt": "2022-02-04T21:21:25Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "BIJdnVy_OghkrORdxGmdsMXiaLc",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9Y-pvAoKFR6",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCo7NRkUTxAnj_3M1l1cNZGA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCo7NRkUTxAnj_3M1l1cNZGA",
+                            "authorDisplayName": "XEON",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/9vt0BDq3ISBbwozoL4spe37JlDSLaVPupC3PkmS6SOAEmb3yKOVWq-8wiLa6JCdbEBz0xaYBgQ=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2022-02-04T01:08:26Z",
+                            "textDisplay": "Yeah despite the memes I truly try to apply the sigma male concept along with red pill and the meaning of giga chad",
+                            "textOriginal": "Yeah despite the memes I truly try to apply the sigma male concept along with red pill and the meaning of giga chad",
+                            "updatedAt": "2022-02-04T01:08:26Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "lhUz_AlQ6CeJKrFjgvIiXSHPwVE",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9XmuCNYdBab",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCu-JpLoE6UbYWVrHpCokY9w"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCu-JpLoE6UbYWVrHpCokY9w",
+                            "authorDisplayName": "Prem Sharma",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSZLjcKicWOI1SEGYf58-XYqDPH60w8Xr_9ciKG2d8=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2022-01-29T15:16:30Z",
+                            "textDisplay": "True",
+                            "textOriginal": "True",
+                            "updatedAt": "2022-01-29T15:16:30Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "13gq4UU4cVEJr1HSttPDItsB3jQ",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9W1dlZRbb4m",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC8FMpgKGoFyKsmA0cewO8hg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC8FMpgKGoFyKsmA0cewO8hg",
+                            "authorDisplayName": "Garfi",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQDBmXATUWqi3KRNDcSCxbnzL13HzHY3PReCyZCzg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2021-12-17T00:57:57Z",
+                            "textDisplay": "@sigmagrindsets21 Wtf you are supposed to slap woman",
+                            "textOriginal": "@sigmagrindsets21 Wtf you are supposed to slap woman",
+                            "updatedAt": "2021-12-17T00:57:57Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "TjJ6yAGbCQvvSSnRnAQgxGY0b6o",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9Vqbcb4M8rn",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCUohO9bliP4UwDvMtAGF3Wg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCUohO9bliP4UwDvMtAGF3Wg",
+                            "authorDisplayName": "EA \u00d6\u011frencisi (100k)",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/XWf35tMx0HbQhr79dhCOgs0C9mRpEVr2rX9IQjpCvcwGz5xrGn10sOqPQQlf6-Vv6-UZ-dquCg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2021-12-12T08:48:22Z",
+                            "textDisplay": "yeahhh dude",
+                            "textOriginal": "yeahhh dude",
+                            "updatedAt": "2021-12-12T08:48:22Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    }
+                ]
+            },
+            "snippet": {
+                "canReply": true,
+                "isPublic": true,
+                "topLevelComment": {
+                    "etag": "inkI0RwEJsdWYFZLD-5uD0PJTI8",
+                    "id": "UgwDHLxGqdXuq5Scj714AaABAg",
+                    "kind": "youtube#comment",
+                    "snippet": {
+                        "authorChannelId": {
+                            "value": "UCd0eE0ZSXitAlL_TX4syTmg"
+                        },
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCd0eE0ZSXitAlL_TX4syTmg",
+                        "authorDisplayName": "Hardik Upadhyay",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ3oEt6ml-CT8i1MxUn6dzAIAXDKdkDOTR5HhcPYw=s48-c-k-c0x00ffffff-no-rj",
+                        "canRate": true,
+                        "likeCount": 2467,
+                        "publishedAt": "2021-11-02T10:39:49Z",
+                        "textDisplay": "Sigma memes are deadly combo of humour and motivation\ud83d\ude02\ud83d\udcaf",
+                        "textOriginal": "Sigma memes are deadly combo of humour and motivation\ud83d\ude02\ud83d\udcaf",
+                        "updatedAt": "2021-11-02T10:39:49Z",
+                        "videoId": "2f9yv-T1QNM",
+                        "viewerRating": "none"
+                    }
+                },
+                "totalReplyCount": 17,
+                "videoId": "2f9yv-T1QNM"
+            }
+        },
+        {
+            "etag": "cecU0F02wIZ7qAe6yepUUu4543E",
+            "id": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+            "kind": "youtube#commentThread",
+            "replies": {
+                "comments": [
+                    {
+                        "etag": "ssvfNiNP7ZhzMTzSI9OQXLDD99A",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9XkY_rL45_O",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC0T1FQ9lXeZfSdKjvg4o2Dw"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC0T1FQ9lXeZfSdKjvg4o2Dw",
+                            "authorDisplayName": "ASHOK M.K",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTwhrRyxUs60IVYI-bQWlfGqfCYa8G__RWqLHUprg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 1,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-28T17:20:23Z",
+                            "textDisplay": "By Madara???",
+                            "textOriginal": "By Madara???",
+                            "updatedAt": "2022-01-28T17:20:23Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "t4G6D14wp0iKRRaTsfjpsAo1Trk",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9XLd9gxpjvn",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCyn2CogYDT2f_AeVTQloPPA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCyn2CogYDT2f_AeVTQloPPA",
+                            "authorDisplayName": "Minecraft Farlands",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/KTN_lL4CoaMyxoDB4gCBdmZOzObctffEBPanFzv_7RPvQGm1PoU7rzlGv3_qZW6H3nE-8-_h=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 2,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-18T15:48:51Z",
+                            "textDisplay": "Same I do that",
+                            "textOriginal": "Same I do that",
+                            "updatedAt": "2022-01-18T15:48:51Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "vHBGan5PGmfsJqgij_hDwXCzhNA",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9X8dwolXKE-",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCg-fxZKRGxI-RP_W_k4DMGQ"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCg-fxZKRGxI-RP_W_k4DMGQ",
+                            "authorDisplayName": "Bhai great",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/Vu_7okNSYsiIHR_orB-BaHqA-vlIzLjvXNzH4_YH008VUuCYQ6nbwA6-4ydea0OAqeF-1XnF-g=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-13T14:45:34Z",
+                            "textDisplay": "\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+                            "textOriginal": "\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+                            "updatedAt": "2022-01-13T14:45:34Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "nkFuhsEDCZV6xIzNu8k0ndMtFJ4",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9WsdJUdvTCC",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCb3QICuxHVucpjkOmiuMFog"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCb3QICuxHVucpjkOmiuMFog",
+                            "authorDisplayName": "Alternate 12",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRt4kmjdbtLMas1feROYEfq_hDLCmfe3ABBHLeTcdP0toH8A0MH7bXTCcUCdx_s=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 4,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-07T00:12:58Z",
+                            "textDisplay": "I always follow that",
+                            "textOriginal": "I always follow that",
+                            "updatedAt": "2022-01-07T00:12:58Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    }
+                ]
+            },
+            "snippet": {
+                "canReply": true,
+                "isPublic": true,
+                "topLevelComment": {
+                    "etag": "dJz_U-JUh9_SPFTGgYy9UO-XgbM",
+                    "id": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                    "kind": "youtube#comment",
+                    "snippet": {
+                        "authorChannelId": {
+                            "value": "UCvdFZHyxdcsffvvYwuBYDRQ"
+                        },
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCvdFZHyxdcsffvvYwuBYDRQ",
+                        "authorDisplayName": "hampter",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/LhWpPhnTBZqjZt_jss5PGWZtfAWXP8QK7BKOczDLVIEayt3WOZ3spnXLy9BRp42BiClWPMV8vA=s48-c-k-c0x00ffffff-no-rj",
+                        "canRate": true,
+                        "likeCount": 273,
+                        "publishedAt": "2022-01-04T09:05:43Z",
+                        "textDisplay": "\u201cNever underestimate your enemy. Always overestimate them and be disappointed.\u201d<br><br>-Sigma Rule 352",
+                        "textOriginal": "\u201cNever underestimate your enemy. Always overestimate them and be disappointed.\u201d\n\n-Sigma Rule 352",
+                        "updatedAt": "2022-01-04T09:06:00Z",
+                        "videoId": "2f9yv-T1QNM",
+                        "viewerRating": "none"
+                    }
+                },
+                "totalReplyCount": 4,
+                "videoId": "2f9yv-T1QNM"
+            }
+        }
+    ],
+    "kind": "youtube#commentThreadListResponse",
+    "nextPageToken": "QURTSl9pMFNUbzhUMm9RUER5V1lOYm5vVHBkOHMwMW9HVWpRZkhJd3BkSjlkRmMtRFBpQklvTDllZGYwM1hwMmw1eFRkTlZITEpYZ2ttZlI3eDZ5Mm9GSVFGM0lHcFdDbEpoSDQ3RVRiQm8=",
+    "pageInfo": {
+        "resultsPerPage": 3,
+        "totalResults": 3
+    }
+}{
+    "etag": "5DZ6udNGm47X1H_x4hoxJ3TGW7k",
+    "items": [
+        {
+            "etag": "AqRDIvR-HKCloQcMBgT3bIO2uyc",
+            "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+            "kind": "youtube#commentThread",
+            "replies": {
+                "comments": [
+                    {
+                        "etag": "xHqhStPBsRZrzwJyIpWWsY9WmBY",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9Y60oFS-VbP",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCQZdOlXDn3Vsj2WcJmWPSrg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCQZdOlXDn3Vsj2WcJmWPSrg",
+                            "authorDisplayName": "Gigi Kartveli",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSX8vePfsFT_3lXcpYVo24L5MKIfQ4X4gMkwg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-02-06T10:47:47Z",
+                            "textDisplay": "Pakistani and India RUleeeeeeeeee!",
+                            "textOriginal": "Pakistani and India RUleeeeeeeeee!",
+                            "updatedAt": "2022-02-06T10:47:47Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "QCk4Qs5EGkAzCgv_QuFpvtTPjUM",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XuYSKWNpzR",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCTW5-e2O6gEg-5rg-WT6pJQ"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCTW5-e2O6gEg-5rg-WT6pJQ",
+                            "authorDisplayName": "Michal Gumb\u00edr",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQw2U51eSWLXJpCYMvxOfJKW0XxrEYAlhSa3RbGJgYez3mPGT9EiOiWUnRDbS6r=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-02-01T14:31:38Z",
+                            "textDisplay": "Trueee",
+                            "textOriginal": "Trueee",
+                            "updatedAt": "2022-02-01T14:31:38Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "bpTr4skvRdpwbNDlFAftOF4cTlw",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XaRgdDiKQv",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC-QNNbLcGOiDveFBakIA_EA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC-QNNbLcGOiDveFBakIA_EA",
+                            "authorDisplayName": "TechTopia",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/cXSgy4IYlBfcFIzFjNM2h5pployZNK75uqegt2FUlm2XTEZ0wAkhfWs9mmwHmjt0K_kZgVw7=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-01-24T19:07:45Z",
+                            "textDisplay": "Facts",
+                            "textOriginal": "Facts",
+                            "updatedAt": "2022-01-24T19:07:45Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "lw43mQsja9ZiQRJt6sP0wGZuJrw",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XQt1vYwnCV",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCxol6GqY3M6RlzpX06b3iPg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCxol6GqY3M6RlzpX06b3iPg",
+                            "authorDisplayName": "pranay bhandekar",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRY7z4R9RcYYNya8aXVXltTyByEwrOiavWqyQ=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-01-20T16:43:48Z",
+                            "textDisplay": "Yes bro \ud83d\ude02",
+                            "textOriginal": "Yes bro \ud83d\ude02",
+                            "updatedAt": "2022-01-20T16:43:48Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "8tdQrAJ0RhtWYDqjqXtdmgUk_gw",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XFJDk3f5zo",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCOvktulM2Yb4Gv-pxMUy0VA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCOvktulM2Yb4Gv-pxMUy0VA",
+                            "authorDisplayName": "Awake \ud83d\udd25\ud83d\ude33",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/YtMA36RW1ANtlmdgL1fe_QPDMMLOmkdJYrEwQoif--eayC65Gtu4zM9X7myxxYQd2d3wLM4S0g=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-01-16T04:50:28Z",
+                            "textDisplay": "<a href=\"https://youtube.com/shorts/agXQyPu0FJU?feature=share\">https://youtube.com/shorts/agXQyPu0FJU?feature=share</a><br>Sigma motivations",
+                            "textOriginal": "https://youtube.com/shorts/agXQyPu0FJU?feature=share\nSigma motivations",
+                            "updatedAt": "2022-01-16T04:50:28Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    }
+                ]
+            },
+            "snippet": {
+                "canReply": true,
+                "isPublic": true,
+                "topLevelComment": {
+                    "etag": "OUrr5sh6OduIQWSE0vSzWj6vpUQ",
+                    "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                    "kind": "youtube#comment",
+                    "snippet": {
+                        "authorChannelId": {
+                            "value": "UCzxdAPtLjCCEVBSD9EAVUhw"
+                        },
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCzxdAPtLjCCEVBSD9EAVUhw",
+                        "authorDisplayName": "Atharv Sachan",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/lgqkk_aiPdOgKQTmaNvp83S8XR1Ip1W1mtMkQiXdYPT7q3Av4bRaQdFfQaWMwY-sXNZ_Wsl0iA=s48-c-k-c0x00ffffff-no-rj",
+                        "canRate": true,
+                        "likeCount": 7331,
+                        "publishedAt": "2021-08-08T08:24:36Z",
+                        "textDisplay": "This compilation is well balanced with Pakistani and Indian memes good job",
+                        "textOriginal": "This compilation is well balanced with Pakistani and Indian memes good job",
+                        "updatedAt": "2021-08-08T08:24:36Z",
+                        "videoId": "2f9yv-T1QNM",
+                        "viewerRating": "none"
+                    }
+                },
+                "totalReplyCount": 88,
+                "videoId": "2f9yv-T1QNM"
+            }
+        },
+        {
+            "etag": "TB3EEHpzi-jvufDZy3q5DFkTAgQ",
+            "id": "UgwDHLxGqdXuq5Scj714AaABAg",
+            "kind": "youtube#commentThread",
+            "replies": {
+                "comments": [
+                    {
+                        "etag": "2k4jIYwIA7-MZN-NYhwMX7osThw",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9Y2-jKkTzDP",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC9KtnMGenrOxM1FsIwsicqA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC9KtnMGenrOxM1FsIwsicqA",
+                            "authorDisplayName": "Satyrolog",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR3nRYe5hYfnxV-B8eMgL11XXR6pwGZ-jXWU59D=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2022-02-04T21:21:25Z",
+                            "textDisplay": "Guys u know that is satire? Making fun from people who think they are \u201csigma\u201d\u2026 ahhhh",
+                            "textOriginal": "Guys u know that is satire? Making fun from people who think they are \u201csigma\u201d\u2026 ahhhh",
+                            "updatedAt": "2022-02-04T21:21:25Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "BIJdnVy_OghkrORdxGmdsMXiaLc",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9Y-pvAoKFR6",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCo7NRkUTxAnj_3M1l1cNZGA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCo7NRkUTxAnj_3M1l1cNZGA",
+                            "authorDisplayName": "XEON",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/9vt0BDq3ISBbwozoL4spe37JlDSLaVPupC3PkmS6SOAEmb3yKOVWq-8wiLa6JCdbEBz0xaYBgQ=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2022-02-04T01:08:26Z",
+                            "textDisplay": "Yeah despite the memes I truly try to apply the sigma male concept along with red pill and the meaning of giga chad",
+                            "textOriginal": "Yeah despite the memes I truly try to apply the sigma male concept along with red pill and the meaning of giga chad",
+                            "updatedAt": "2022-02-04T01:08:26Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "lhUz_AlQ6CeJKrFjgvIiXSHPwVE",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9XmuCNYdBab",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCu-JpLoE6UbYWVrHpCokY9w"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCu-JpLoE6UbYWVrHpCokY9w",
+                            "authorDisplayName": "Prem Sharma",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSZLjcKicWOI1SEGYf58-XYqDPH60w8Xr_9ciKG2d8=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2022-01-29T15:16:30Z",
+                            "textDisplay": "True",
+                            "textOriginal": "True",
+                            "updatedAt": "2022-01-29T15:16:30Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "13gq4UU4cVEJr1HSttPDItsB3jQ",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9W1dlZRbb4m",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC8FMpgKGoFyKsmA0cewO8hg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC8FMpgKGoFyKsmA0cewO8hg",
+                            "authorDisplayName": "Garfi",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQDBmXATUWqi3KRNDcSCxbnzL13HzHY3PReCyZCzg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2021-12-17T00:57:57Z",
+                            "textDisplay": "@sigmagrindsets21 Wtf you are supposed to slap woman",
+                            "textOriginal": "@sigmagrindsets21 Wtf you are supposed to slap woman",
+                            "updatedAt": "2021-12-17T00:57:57Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "TjJ6yAGbCQvvSSnRnAQgxGY0b6o",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9Vqbcb4M8rn",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCUohO9bliP4UwDvMtAGF3Wg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCUohO9bliP4UwDvMtAGF3Wg",
+                            "authorDisplayName": "EA \u00d6\u011frencisi (100k)",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/XWf35tMx0HbQhr79dhCOgs0C9mRpEVr2rX9IQjpCvcwGz5xrGn10sOqPQQlf6-Vv6-UZ-dquCg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2021-12-12T08:48:22Z",
+                            "textDisplay": "yeahhh dude",
+                            "textOriginal": "yeahhh dude",
+                            "updatedAt": "2021-12-12T08:48:22Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    }
+                ]
+            },
+            "snippet": {
+                "canReply": true,
+                "isPublic": true,
+                "topLevelComment": {
+                    "etag": "inkI0RwEJsdWYFZLD-5uD0PJTI8",
+                    "id": "UgwDHLxGqdXuq5Scj714AaABAg",
+                    "kind": "youtube#comment",
+                    "snippet": {
+                        "authorChannelId": {
+                            "value": "UCd0eE0ZSXitAlL_TX4syTmg"
+                        },
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCd0eE0ZSXitAlL_TX4syTmg",
+                        "authorDisplayName": "Hardik Upadhyay",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ3oEt6ml-CT8i1MxUn6dzAIAXDKdkDOTR5HhcPYw=s48-c-k-c0x00ffffff-no-rj",
+                        "canRate": true,
+                        "likeCount": 2467,
+                        "publishedAt": "2021-11-02T10:39:49Z",
+                        "textDisplay": "Sigma memes are deadly combo of humour and motivation\ud83d\ude02\ud83d\udcaf",
+                        "textOriginal": "Sigma memes are deadly combo of humour and motivation\ud83d\ude02\ud83d\udcaf",
+                        "updatedAt": "2021-11-02T10:39:49Z",
+                        "videoId": "2f9yv-T1QNM",
+                        "viewerRating": "none"
+                    }
+                },
+                "totalReplyCount": 17,
+                "videoId": "2f9yv-T1QNM"
+            }
+        },
+        {
+            "etag": "cecU0F02wIZ7qAe6yepUUu4543E",
+            "id": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+            "kind": "youtube#commentThread",
+            "replies": {
+                "comments": [
+                    {
+                        "etag": "ssvfNiNP7ZhzMTzSI9OQXLDD99A",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9XkY_rL45_O",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC0T1FQ9lXeZfSdKjvg4o2Dw"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC0T1FQ9lXeZfSdKjvg4o2Dw",
+                            "authorDisplayName": "ASHOK M.K",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTwhrRyxUs60IVYI-bQWlfGqfCYa8G__RWqLHUprg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 1,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-28T17:20:23Z",
+                            "textDisplay": "By Madara???",
+                            "textOriginal": "By Madara???",
+                            "updatedAt": "2022-01-28T17:20:23Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "t4G6D14wp0iKRRaTsfjpsAo1Trk",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9XLd9gxpjvn",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCyn2CogYDT2f_AeVTQloPPA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCyn2CogYDT2f_AeVTQloPPA",
+                            "authorDisplayName": "Minecraft Farlands",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/KTN_lL4CoaMyxoDB4gCBdmZOzObctffEBPanFzv_7RPvQGm1PoU7rzlGv3_qZW6H3nE-8-_h=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 2,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-18T15:48:51Z",
+                            "textDisplay": "Same I do that",
+                            "textOriginal": "Same I do that",
+                            "updatedAt": "2022-01-18T15:48:51Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "vHBGan5PGmfsJqgij_hDwXCzhNA",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9X8dwolXKE-",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCg-fxZKRGxI-RP_W_k4DMGQ"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCg-fxZKRGxI-RP_W_k4DMGQ",
+                            "authorDisplayName": "Bhai great",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/Vu_7okNSYsiIHR_orB-BaHqA-vlIzLjvXNzH4_YH008VUuCYQ6nbwA6-4ydea0OAqeF-1XnF-g=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-13T14:45:34Z",
+                            "textDisplay": "\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+                            "textOriginal": "\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+                            "updatedAt": "2022-01-13T14:45:34Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "nkFuhsEDCZV6xIzNu8k0ndMtFJ4",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9WsdJUdvTCC",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCb3QICuxHVucpjkOmiuMFog"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCb3QICuxHVucpjkOmiuMFog",
+                            "authorDisplayName": "Alternate 12",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRt4kmjdbtLMas1feROYEfq_hDLCmfe3ABBHLeTcdP0toH8A0MH7bXTCcUCdx_s=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 4,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-07T00:12:58Z",
+                            "textDisplay": "I always follow that",
+                            "textOriginal": "I always follow that",
+                            "updatedAt": "2022-01-07T00:12:58Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    }
+                ]
+            },
+            "snippet": {
+                "canReply": true,
+                "isPublic": true,
+                "topLevelComment": {
+                    "etag": "dJz_U-JUh9_SPFTGgYy9UO-XgbM",
+                    "id": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                    "kind": "youtube#comment",
+                    "snippet": {
+                        "authorChannelId": {
+                            "value": "UCvdFZHyxdcsffvvYwuBYDRQ"
+                        },
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCvdFZHyxdcsffvvYwuBYDRQ",
+                        "authorDisplayName": "hampter",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/LhWpPhnTBZqjZt_jss5PGWZtfAWXP8QK7BKOczDLVIEayt3WOZ3spnXLy9BRp42BiClWPMV8vA=s48-c-k-c0x00ffffff-no-rj",
+                        "canRate": true,
+                        "likeCount": 273,
+                        "publishedAt": "2022-01-04T09:05:43Z",
+                        "textDisplay": "\u201cNever underestimate your enemy. Always overestimate them and be disappointed.\u201d<br><br>-Sigma Rule 352",
+                        "textOriginal": "\u201cNever underestimate your enemy. Always overestimate them and be disappointed.\u201d\n\n-Sigma Rule 352",
+                        "updatedAt": "2022-01-04T09:06:00Z",
+                        "videoId": "2f9yv-T1QNM",
+                        "viewerRating": "none"
+                    }
+                },
+                "totalReplyCount": 4,
+                "videoId": "2f9yv-T1QNM"
+            }
+        }
+    ],
+    "kind": "youtube#commentThreadListResponse",
+    "nextPageToken": "QURTSl9pMFNUbzhUMm9RUER5V1lOYm5vVHBkOHMwMW9HVWpRZkhJd3BkSjlkRmMtRFBpQklvTDllZGYwM1hwMmw1eFRkTlZITEpYZ2ttZlI3eDZ5Mm9GSVFGM0lHcFdDbEpoSDQ3RVRiQm8=",
+    "pageInfo": {
+        "resultsPerPage": 3,
+        "totalResults": 3
+    }
+}{
+    "etag": "5DZ6udNGm47X1H_x4hoxJ3TGW7k",
+    "items": [
+        {
+            "etag": "AqRDIvR-HKCloQcMBgT3bIO2uyc",
+            "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+            "kind": "youtube#commentThread",
+            "replies": {
+                "comments": [
+                    {
+                        "etag": "xHqhStPBsRZrzwJyIpWWsY9WmBY",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9Y60oFS-VbP",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCQZdOlXDn3Vsj2WcJmWPSrg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCQZdOlXDn3Vsj2WcJmWPSrg",
+                            "authorDisplayName": "Gigi Kartveli",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSX8vePfsFT_3lXcpYVo24L5MKIfQ4X4gMkwg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-02-06T10:47:47Z",
+                            "textDisplay": "Pakistani and India RUleeeeeeeeee!",
+                            "textOriginal": "Pakistani and India RUleeeeeeeeee!",
+                            "updatedAt": "2022-02-06T10:47:47Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "QCk4Qs5EGkAzCgv_QuFpvtTPjUM",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XuYSKWNpzR",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCTW5-e2O6gEg-5rg-WT6pJQ"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCTW5-e2O6gEg-5rg-WT6pJQ",
+                            "authorDisplayName": "Michal Gumb\u00edr",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQw2U51eSWLXJpCYMvxOfJKW0XxrEYAlhSa3RbGJgYez3mPGT9EiOiWUnRDbS6r=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-02-01T14:31:38Z",
+                            "textDisplay": "Trueee",
+                            "textOriginal": "Trueee",
+                            "updatedAt": "2022-02-01T14:31:38Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "bpTr4skvRdpwbNDlFAftOF4cTlw",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XaRgdDiKQv",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC-QNNbLcGOiDveFBakIA_EA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC-QNNbLcGOiDveFBakIA_EA",
+                            "authorDisplayName": "TechTopia",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/cXSgy4IYlBfcFIzFjNM2h5pployZNK75uqegt2FUlm2XTEZ0wAkhfWs9mmwHmjt0K_kZgVw7=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-01-24T19:07:45Z",
+                            "textDisplay": "Facts",
+                            "textOriginal": "Facts",
+                            "updatedAt": "2022-01-24T19:07:45Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "lw43mQsja9ZiQRJt6sP0wGZuJrw",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XQt1vYwnCV",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCxol6GqY3M6RlzpX06b3iPg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCxol6GqY3M6RlzpX06b3iPg",
+                            "authorDisplayName": "pranay bhandekar",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRY7z4R9RcYYNya8aXVXltTyByEwrOiavWqyQ=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-01-20T16:43:48Z",
+                            "textDisplay": "Yes bro \ud83d\ude02",
+                            "textOriginal": "Yes bro \ud83d\ude02",
+                            "updatedAt": "2022-01-20T16:43:48Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "8tdQrAJ0RhtWYDqjqXtdmgUk_gw",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XFJDk3f5zo",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCOvktulM2Yb4Gv-pxMUy0VA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCOvktulM2Yb4Gv-pxMUy0VA",
+                            "authorDisplayName": "Awake \ud83d\udd25\ud83d\ude33",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/YtMA36RW1ANtlmdgL1fe_QPDMMLOmkdJYrEwQoif--eayC65Gtu4zM9X7myxxYQd2d3wLM4S0g=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-01-16T04:50:28Z",
+                            "textDisplay": "<a href=\"https://youtube.com/shorts/agXQyPu0FJU?feature=share\">https://youtube.com/shorts/agXQyPu0FJU?feature=share</a><br>Sigma motivations",
+                            "textOriginal": "https://youtube.com/shorts/agXQyPu0FJU?feature=share\nSigma motivations",
+                            "updatedAt": "2022-01-16T04:50:28Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    }
+                ]
+            },
+            "snippet": {
+                "canReply": true,
+                "isPublic": true,
+                "topLevelComment": {
+                    "etag": "OUrr5sh6OduIQWSE0vSzWj6vpUQ",
+                    "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                    "kind": "youtube#comment",
+                    "snippet": {
+                        "authorChannelId": {
+                            "value": "UCzxdAPtLjCCEVBSD9EAVUhw"
+                        },
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCzxdAPtLjCCEVBSD9EAVUhw",
+                        "authorDisplayName": "Atharv Sachan",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/lgqkk_aiPdOgKQTmaNvp83S8XR1Ip1W1mtMkQiXdYPT7q3Av4bRaQdFfQaWMwY-sXNZ_Wsl0iA=s48-c-k-c0x00ffffff-no-rj",
+                        "canRate": true,
+                        "likeCount": 7331,
+                        "publishedAt": "2021-08-08T08:24:36Z",
+                        "textDisplay": "This compilation is well balanced with Pakistani and Indian memes good job",
+                        "textOriginal": "This compilation is well balanced with Pakistani and Indian memes good job",
+                        "updatedAt": "2021-08-08T08:24:36Z",
+                        "videoId": "2f9yv-T1QNM",
+                        "viewerRating": "none"
+                    }
+                },
+                "totalReplyCount": 88,
+                "videoId": "2f9yv-T1QNM"
+            }
+        },
+        {
+            "etag": "TB3EEHpzi-jvufDZy3q5DFkTAgQ",
+            "id": "UgwDHLxGqdXuq5Scj714AaABAg",
+            "kind": "youtube#commentThread",
+            "replies": {
+                "comments": [
+                    {
+                        "etag": "2k4jIYwIA7-MZN-NYhwMX7osThw",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9Y2-jKkTzDP",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC9KtnMGenrOxM1FsIwsicqA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC9KtnMGenrOxM1FsIwsicqA",
+                            "authorDisplayName": "Satyrolog",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR3nRYe5hYfnxV-B8eMgL11XXR6pwGZ-jXWU59D=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2022-02-04T21:21:25Z",
+                            "textDisplay": "Guys u know that is satire? Making fun from people who think they are \u201csigma\u201d\u2026 ahhhh",
+                            "textOriginal": "Guys u know that is satire? Making fun from people who think they are \u201csigma\u201d\u2026 ahhhh",
+                            "updatedAt": "2022-02-04T21:21:25Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "BIJdnVy_OghkrORdxGmdsMXiaLc",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9Y-pvAoKFR6",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCo7NRkUTxAnj_3M1l1cNZGA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCo7NRkUTxAnj_3M1l1cNZGA",
+                            "authorDisplayName": "XEON",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/9vt0BDq3ISBbwozoL4spe37JlDSLaVPupC3PkmS6SOAEmb3yKOVWq-8wiLa6JCdbEBz0xaYBgQ=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2022-02-04T01:08:26Z",
+                            "textDisplay": "Yeah despite the memes I truly try to apply the sigma male concept along with red pill and the meaning of giga chad",
+                            "textOriginal": "Yeah despite the memes I truly try to apply the sigma male concept along with red pill and the meaning of giga chad",
+                            "updatedAt": "2022-02-04T01:08:26Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "lhUz_AlQ6CeJKrFjgvIiXSHPwVE",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9XmuCNYdBab",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCu-JpLoE6UbYWVrHpCokY9w"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCu-JpLoE6UbYWVrHpCokY9w",
+                            "authorDisplayName": "Prem Sharma",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSZLjcKicWOI1SEGYf58-XYqDPH60w8Xr_9ciKG2d8=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2022-01-29T15:16:30Z",
+                            "textDisplay": "True",
+                            "textOriginal": "True",
+                            "updatedAt": "2022-01-29T15:16:30Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "13gq4UU4cVEJr1HSttPDItsB3jQ",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9W1dlZRbb4m",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC8FMpgKGoFyKsmA0cewO8hg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC8FMpgKGoFyKsmA0cewO8hg",
+                            "authorDisplayName": "Garfi",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQDBmXATUWqi3KRNDcSCxbnzL13HzHY3PReCyZCzg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2021-12-17T00:57:57Z",
+                            "textDisplay": "@sigmagrindsets21 Wtf you are supposed to slap woman",
+                            "textOriginal": "@sigmagrindsets21 Wtf you are supposed to slap woman",
+                            "updatedAt": "2021-12-17T00:57:57Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "TjJ6yAGbCQvvSSnRnAQgxGY0b6o",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9Vqbcb4M8rn",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCUohO9bliP4UwDvMtAGF3Wg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCUohO9bliP4UwDvMtAGF3Wg",
+                            "authorDisplayName": "EA \u00d6\u011frencisi (100k)",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/XWf35tMx0HbQhr79dhCOgs0C9mRpEVr2rX9IQjpCvcwGz5xrGn10sOqPQQlf6-Vv6-UZ-dquCg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2021-12-12T08:48:22Z",
+                            "textDisplay": "yeahhh dude",
+                            "textOriginal": "yeahhh dude",
+                            "updatedAt": "2021-12-12T08:48:22Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    }
+                ]
+            },
+            "snippet": {
+                "canReply": true,
+                "isPublic": true,
+                "topLevelComment": {
+                    "etag": "inkI0RwEJsdWYFZLD-5uD0PJTI8",
+                    "id": "UgwDHLxGqdXuq5Scj714AaABAg",
+                    "kind": "youtube#comment",
+                    "snippet": {
+                        "authorChannelId": {
+                            "value": "UCd0eE0ZSXitAlL_TX4syTmg"
+                        },
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCd0eE0ZSXitAlL_TX4syTmg",
+                        "authorDisplayName": "Hardik Upadhyay",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ3oEt6ml-CT8i1MxUn6dzAIAXDKdkDOTR5HhcPYw=s48-c-k-c0x00ffffff-no-rj",
+                        "canRate": true,
+                        "likeCount": 2467,
+                        "publishedAt": "2021-11-02T10:39:49Z",
+                        "textDisplay": "Sigma memes are deadly combo of humour and motivation\ud83d\ude02\ud83d\udcaf",
+                        "textOriginal": "Sigma memes are deadly combo of humour and motivation\ud83d\ude02\ud83d\udcaf",
+                        "updatedAt": "2021-11-02T10:39:49Z",
+                        "videoId": "2f9yv-T1QNM",
+                        "viewerRating": "none"
+                    }
+                },
+                "totalReplyCount": 17,
+                "videoId": "2f9yv-T1QNM"
+            }
+        },
+        {
+            "etag": "cecU0F02wIZ7qAe6yepUUu4543E",
+            "id": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+            "kind": "youtube#commentThread",
+            "replies": {
+                "comments": [
+                    {
+                        "etag": "ssvfNiNP7ZhzMTzSI9OQXLDD99A",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9XkY_rL45_O",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC0T1FQ9lXeZfSdKjvg4o2Dw"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC0T1FQ9lXeZfSdKjvg4o2Dw",
+                            "authorDisplayName": "ASHOK M.K",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTwhrRyxUs60IVYI-bQWlfGqfCYa8G__RWqLHUprg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 1,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-28T17:20:23Z",
+                            "textDisplay": "By Madara???",
+                            "textOriginal": "By Madara???",
+                            "updatedAt": "2022-01-28T17:20:23Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "t4G6D14wp0iKRRaTsfjpsAo1Trk",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9XLd9gxpjvn",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCyn2CogYDT2f_AeVTQloPPA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCyn2CogYDT2f_AeVTQloPPA",
+                            "authorDisplayName": "Minecraft Farlands",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/KTN_lL4CoaMyxoDB4gCBdmZOzObctffEBPanFzv_7RPvQGm1PoU7rzlGv3_qZW6H3nE-8-_h=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 2,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-18T15:48:51Z",
+                            "textDisplay": "Same I do that",
+                            "textOriginal": "Same I do that",
+                            "updatedAt": "2022-01-18T15:48:51Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "vHBGan5PGmfsJqgij_hDwXCzhNA",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9X8dwolXKE-",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCg-fxZKRGxI-RP_W_k4DMGQ"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCg-fxZKRGxI-RP_W_k4DMGQ",
+                            "authorDisplayName": "Bhai great",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/Vu_7okNSYsiIHR_orB-BaHqA-vlIzLjvXNzH4_YH008VUuCYQ6nbwA6-4ydea0OAqeF-1XnF-g=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-13T14:45:34Z",
+                            "textDisplay": "\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+                            "textOriginal": "\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+                            "updatedAt": "2022-01-13T14:45:34Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "nkFuhsEDCZV6xIzNu8k0ndMtFJ4",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9WsdJUdvTCC",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCb3QICuxHVucpjkOmiuMFog"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCb3QICuxHVucpjkOmiuMFog",
+                            "authorDisplayName": "Alternate 12",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRt4kmjdbtLMas1feROYEfq_hDLCmfe3ABBHLeTcdP0toH8A0MH7bXTCcUCdx_s=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 4,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-07T00:12:58Z",
+                            "textDisplay": "I always follow that",
+                            "textOriginal": "I always follow that",
+                            "updatedAt": "2022-01-07T00:12:58Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    }
+                ]
+            },
+            "snippet": {
+                "canReply": true,
+                "isPublic": true,
+                "topLevelComment": {
+                    "etag": "dJz_U-JUh9_SPFTGgYy9UO-XgbM",
+                    "id": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                    "kind": "youtube#comment",
+                    "snippet": {
+                        "authorChannelId": {
+                            "value": "UCvdFZHyxdcsffvvYwuBYDRQ"
+                        },
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCvdFZHyxdcsffvvYwuBYDRQ",
+                        "authorDisplayName": "hampter",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/LhWpPhnTBZqjZt_jss5PGWZtfAWXP8QK7BKOczDLVIEayt3WOZ3spnXLy9BRp42BiClWPMV8vA=s48-c-k-c0x00ffffff-no-rj",
+                        "canRate": true,
+                        "likeCount": 273,
+                        "publishedAt": "2022-01-04T09:05:43Z",
+                        "textDisplay": "\u201cNever underestimate your enemy. Always overestimate them and be disappointed.\u201d<br><br>-Sigma Rule 352",
+                        "textOriginal": "\u201cNever underestimate your enemy. Always overestimate them and be disappointed.\u201d\n\n-Sigma Rule 352",
+                        "updatedAt": "2022-01-04T09:06:00Z",
+                        "videoId": "2f9yv-T1QNM",
+                        "viewerRating": "none"
+                    }
+                },
+                "totalReplyCount": 4,
+                "videoId": "2f9yv-T1QNM"
+            }
+        }
+    ],
+    "kind": "youtube#commentThreadListResponse",
+    "nextPageToken": "QURTSl9pMFNUbzhUMm9RUER5V1lOYm5vVHBkOHMwMW9HVWpRZkhJd3BkSjlkRmMtRFBpQklvTDllZGYwM1hwMmw1eFRkTlZITEpYZ2ttZlI3eDZ5Mm9GSVFGM0lHcFdDbEpoSDQ3RVRiQm8=",
+    "pageInfo": {
+        "resultsPerPage": 3,
+        "totalResults": 3
+    }
+}{
+    "etag": "5DZ6udNGm47X1H_x4hoxJ3TGW7k",
+    "items": [
+        {
+            "etag": "AqRDIvR-HKCloQcMBgT3bIO2uyc",
+            "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+            "kind": "youtube#commentThread",
+            "replies": {
+                "comments": [
+                    {
+                        "etag": "xHqhStPBsRZrzwJyIpWWsY9WmBY",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9Y60oFS-VbP",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCQZdOlXDn3Vsj2WcJmWPSrg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCQZdOlXDn3Vsj2WcJmWPSrg",
+                            "authorDisplayName": "Gigi Kartveli",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSX8vePfsFT_3lXcpYVo24L5MKIfQ4X4gMkwg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-02-06T10:47:47Z",
+                            "textDisplay": "Pakistani and India RUleeeeeeeeee!",
+                            "textOriginal": "Pakistani and India RUleeeeeeeeee!",
+                            "updatedAt": "2022-02-06T10:47:47Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "QCk4Qs5EGkAzCgv_QuFpvtTPjUM",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XuYSKWNpzR",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCTW5-e2O6gEg-5rg-WT6pJQ"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCTW5-e2O6gEg-5rg-WT6pJQ",
+                            "authorDisplayName": "Michal Gumb\u00edr",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQw2U51eSWLXJpCYMvxOfJKW0XxrEYAlhSa3RbGJgYez3mPGT9EiOiWUnRDbS6r=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-02-01T14:31:38Z",
+                            "textDisplay": "Trueee",
+                            "textOriginal": "Trueee",
+                            "updatedAt": "2022-02-01T14:31:38Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "bpTr4skvRdpwbNDlFAftOF4cTlw",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XaRgdDiKQv",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC-QNNbLcGOiDveFBakIA_EA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC-QNNbLcGOiDveFBakIA_EA",
+                            "authorDisplayName": "TechTopia",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/cXSgy4IYlBfcFIzFjNM2h5pployZNK75uqegt2FUlm2XTEZ0wAkhfWs9mmwHmjt0K_kZgVw7=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-01-24T19:07:45Z",
+                            "textDisplay": "Facts",
+                            "textOriginal": "Facts",
+                            "updatedAt": "2022-01-24T19:07:45Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "lw43mQsja9ZiQRJt6sP0wGZuJrw",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XQt1vYwnCV",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCxol6GqY3M6RlzpX06b3iPg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCxol6GqY3M6RlzpX06b3iPg",
+                            "authorDisplayName": "pranay bhandekar",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRY7z4R9RcYYNya8aXVXltTyByEwrOiavWqyQ=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-01-20T16:43:48Z",
+                            "textDisplay": "Yes bro \ud83d\ude02",
+                            "textOriginal": "Yes bro \ud83d\ude02",
+                            "updatedAt": "2022-01-20T16:43:48Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "8tdQrAJ0RhtWYDqjqXtdmgUk_gw",
+                        "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg.9Qm7kD2zn0X9XFJDk3f5zo",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCOvktulM2Yb4Gv-pxMUy0VA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCOvktulM2Yb4Gv-pxMUy0VA",
+                            "authorDisplayName": "Awake \ud83d\udd25\ud83d\ude33",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/YtMA36RW1ANtlmdgL1fe_QPDMMLOmkdJYrEwQoif--eayC65Gtu4zM9X7myxxYQd2d3wLM4S0g=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                            "publishedAt": "2022-01-16T04:50:28Z",
+                            "textDisplay": "<a href=\"https://youtube.com/shorts/agXQyPu0FJU?feature=share\">https://youtube.com/shorts/agXQyPu0FJU?feature=share</a><br>Sigma motivations",
+                            "textOriginal": "https://youtube.com/shorts/agXQyPu0FJU?feature=share\nSigma motivations",
+                            "updatedAt": "2022-01-16T04:50:28Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    }
+                ]
+            },
+            "snippet": {
+                "canReply": true,
+                "isPublic": true,
+                "topLevelComment": {
+                    "etag": "OUrr5sh6OduIQWSE0vSzWj6vpUQ",
+                    "id": "Ugz5dQmYTV-qV2lZFgx4AaABAg",
+                    "kind": "youtube#comment",
+                    "snippet": {
+                        "authorChannelId": {
+                            "value": "UCzxdAPtLjCCEVBSD9EAVUhw"
+                        },
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCzxdAPtLjCCEVBSD9EAVUhw",
+                        "authorDisplayName": "Atharv Sachan",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/lgqkk_aiPdOgKQTmaNvp83S8XR1Ip1W1mtMkQiXdYPT7q3Av4bRaQdFfQaWMwY-sXNZ_Wsl0iA=s48-c-k-c0x00ffffff-no-rj",
+                        "canRate": true,
+                        "likeCount": 7331,
+                        "publishedAt": "2021-08-08T08:24:36Z",
+                        "textDisplay": "This compilation is well balanced with Pakistani and Indian memes good job",
+                        "textOriginal": "This compilation is well balanced with Pakistani and Indian memes good job",
+                        "updatedAt": "2021-08-08T08:24:36Z",
+                        "videoId": "2f9yv-T1QNM",
+                        "viewerRating": "none"
+                    }
+                },
+                "totalReplyCount": 88,
+                "videoId": "2f9yv-T1QNM"
+            }
+        },
+        {
+            "etag": "TB3EEHpzi-jvufDZy3q5DFkTAgQ",
+            "id": "UgwDHLxGqdXuq5Scj714AaABAg",
+            "kind": "youtube#commentThread",
+            "replies": {
+                "comments": [
+                    {
+                        "etag": "2k4jIYwIA7-MZN-NYhwMX7osThw",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9Y2-jKkTzDP",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC9KtnMGenrOxM1FsIwsicqA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC9KtnMGenrOxM1FsIwsicqA",
+                            "authorDisplayName": "Satyrolog",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR3nRYe5hYfnxV-B8eMgL11XXR6pwGZ-jXWU59D=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2022-02-04T21:21:25Z",
+                            "textDisplay": "Guys u know that is satire? Making fun from people who think they are \u201csigma\u201d\u2026 ahhhh",
+                            "textOriginal": "Guys u know that is satire? Making fun from people who think they are \u201csigma\u201d\u2026 ahhhh",
+                            "updatedAt": "2022-02-04T21:21:25Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "BIJdnVy_OghkrORdxGmdsMXiaLc",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9Y-pvAoKFR6",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCo7NRkUTxAnj_3M1l1cNZGA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCo7NRkUTxAnj_3M1l1cNZGA",
+                            "authorDisplayName": "XEON",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/9vt0BDq3ISBbwozoL4spe37JlDSLaVPupC3PkmS6SOAEmb3yKOVWq-8wiLa6JCdbEBz0xaYBgQ=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2022-02-04T01:08:26Z",
+                            "textDisplay": "Yeah despite the memes I truly try to apply the sigma male concept along with red pill and the meaning of giga chad",
+                            "textOriginal": "Yeah despite the memes I truly try to apply the sigma male concept along with red pill and the meaning of giga chad",
+                            "updatedAt": "2022-02-04T01:08:26Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "lhUz_AlQ6CeJKrFjgvIiXSHPwVE",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9XmuCNYdBab",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCu-JpLoE6UbYWVrHpCokY9w"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCu-JpLoE6UbYWVrHpCokY9w",
+                            "authorDisplayName": "Prem Sharma",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSZLjcKicWOI1SEGYf58-XYqDPH60w8Xr_9ciKG2d8=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2022-01-29T15:16:30Z",
+                            "textDisplay": "True",
+                            "textOriginal": "True",
+                            "updatedAt": "2022-01-29T15:16:30Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "13gq4UU4cVEJr1HSttPDItsB3jQ",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9W1dlZRbb4m",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC8FMpgKGoFyKsmA0cewO8hg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC8FMpgKGoFyKsmA0cewO8hg",
+                            "authorDisplayName": "Garfi",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQDBmXATUWqi3KRNDcSCxbnzL13HzHY3PReCyZCzg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2021-12-17T00:57:57Z",
+                            "textDisplay": "@sigmagrindsets21 Wtf you are supposed to slap woman",
+                            "textOriginal": "@sigmagrindsets21 Wtf you are supposed to slap woman",
+                            "updatedAt": "2021-12-17T00:57:57Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "TjJ6yAGbCQvvSSnRnAQgxGY0b6o",
+                        "id": "UgwDHLxGqdXuq5Scj714AaABAg.9UEo_mT4VHL9Vqbcb4M8rn",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCUohO9bliP4UwDvMtAGF3Wg"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCUohO9bliP4UwDvMtAGF3Wg",
+                            "authorDisplayName": "EA \u00d6\u011frencisi (100k)",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/XWf35tMx0HbQhr79dhCOgs0C9mRpEVr2rX9IQjpCvcwGz5xrGn10sOqPQQlf6-Vv6-UZ-dquCg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgwDHLxGqdXuq5Scj714AaABAg",
+                            "publishedAt": "2021-12-12T08:48:22Z",
+                            "textDisplay": "yeahhh dude",
+                            "textOriginal": "yeahhh dude",
+                            "updatedAt": "2021-12-12T08:48:22Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    }
+                ]
+            },
+            "snippet": {
+                "canReply": true,
+                "isPublic": true,
+                "topLevelComment": {
+                    "etag": "inkI0RwEJsdWYFZLD-5uD0PJTI8",
+                    "id": "UgwDHLxGqdXuq5Scj714AaABAg",
+                    "kind": "youtube#comment",
+                    "snippet": {
+                        "authorChannelId": {
+                            "value": "UCd0eE0ZSXitAlL_TX4syTmg"
+                        },
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCd0eE0ZSXitAlL_TX4syTmg",
+                        "authorDisplayName": "Hardik Upadhyay",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ3oEt6ml-CT8i1MxUn6dzAIAXDKdkDOTR5HhcPYw=s48-c-k-c0x00ffffff-no-rj",
+                        "canRate": true,
+                        "likeCount": 2467,
+                        "publishedAt": "2021-11-02T10:39:49Z",
+                        "textDisplay": "Sigma memes are deadly combo of humour and motivation\ud83d\ude02\ud83d\udcaf",
+                        "textOriginal": "Sigma memes are deadly combo of humour and motivation\ud83d\ude02\ud83d\udcaf",
+                        "updatedAt": "2021-11-02T10:39:49Z",
+                        "videoId": "2f9yv-T1QNM",
+                        "viewerRating": "none"
+                    }
+                },
+                "totalReplyCount": 17,
+                "videoId": "2f9yv-T1QNM"
+            }
+        },
+        {
+            "etag": "cecU0F02wIZ7qAe6yepUUu4543E",
+            "id": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+            "kind": "youtube#commentThread",
+            "replies": {
+                "comments": [
+                    {
+                        "etag": "ssvfNiNP7ZhzMTzSI9OQXLDD99A",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9XkY_rL45_O",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UC0T1FQ9lXeZfSdKjvg4o2Dw"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC0T1FQ9lXeZfSdKjvg4o2Dw",
+                            "authorDisplayName": "ASHOK M.K",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTwhrRyxUs60IVYI-bQWlfGqfCYa8G__RWqLHUprg=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 1,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-28T17:20:23Z",
+                            "textDisplay": "By Madara???",
+                            "textOriginal": "By Madara???",
+                            "updatedAt": "2022-01-28T17:20:23Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "t4G6D14wp0iKRRaTsfjpsAo1Trk",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9XLd9gxpjvn",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCyn2CogYDT2f_AeVTQloPPA"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCyn2CogYDT2f_AeVTQloPPA",
+                            "authorDisplayName": "Minecraft Farlands",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/KTN_lL4CoaMyxoDB4gCBdmZOzObctffEBPanFzv_7RPvQGm1PoU7rzlGv3_qZW6H3nE-8-_h=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 2,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-18T15:48:51Z",
+                            "textDisplay": "Same I do that",
+                            "textOriginal": "Same I do that",
+                            "updatedAt": "2022-01-18T15:48:51Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "vHBGan5PGmfsJqgij_hDwXCzhNA",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9X8dwolXKE-",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCg-fxZKRGxI-RP_W_k4DMGQ"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCg-fxZKRGxI-RP_W_k4DMGQ",
+                            "authorDisplayName": "Bhai great",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/Vu_7okNSYsiIHR_orB-BaHqA-vlIzLjvXNzH4_YH008VUuCYQ6nbwA6-4ydea0OAqeF-1XnF-g=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 0,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-13T14:45:34Z",
+                            "textDisplay": "\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+                            "textOriginal": "\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+                            "updatedAt": "2022-01-13T14:45:34Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    },
+                    {
+                        "etag": "nkFuhsEDCZV6xIzNu8k0ndMtFJ4",
+                        "id": "UgzMI1Pk-ueQKVsHSK14AaABAg.9WlrtjzAKUA9WsdJUdvTCC",
+                        "kind": "youtube#comment",
+                        "snippet": {
+                            "authorChannelId": {
+                                "value": "UCb3QICuxHVucpjkOmiuMFog"
+                            },
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCb3QICuxHVucpjkOmiuMFog",
+                            "authorDisplayName": "Alternate 12",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRt4kmjdbtLMas1feROYEfq_hDLCmfe3ABBHLeTcdP0toH8A0MH7bXTCcUCdx_s=s48-c-k-c0x00ffffff-no-rj",
+                            "canRate": true,
+                            "likeCount": 4,
+                            "parentId": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                            "publishedAt": "2022-01-07T00:12:58Z",
+                            "textDisplay": "I always follow that",
+                            "textOriginal": "I always follow that",
+                            "updatedAt": "2022-01-07T00:12:58Z",
+                            "videoId": "2f9yv-T1QNM",
+                            "viewerRating": "none"
+                        }
+                    }
+                ]
+            },
+            "snippet": {
+                "canReply": true,
+                "isPublic": true,
+                "topLevelComment": {
+                    "etag": "dJz_U-JUh9_SPFTGgYy9UO-XgbM",
+                    "id": "UgzMI1Pk-ueQKVsHSK14AaABAg",
+                    "kind": "youtube#comment",
+                    "snippet": {
+                        "authorChannelId": {
+                            "value": "UCvdFZHyxdcsffvvYwuBYDRQ"
+                        },
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCvdFZHyxdcsffvvYwuBYDRQ",
+                        "authorDisplayName": "hampter",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/LhWpPhnTBZqjZt_jss5PGWZtfAWXP8QK7BKOczDLVIEayt3WOZ3spnXLy9BRp42BiClWPMV8vA=s48-c-k-c0x00ffffff-no-rj",
+                        "canRate": true,
+                        "likeCount": 273,
+                        "publishedAt": "2022-01-04T09:05:43Z",
+                        "textDisplay": "\u201cNever underestimate your enemy. Always overestimate them and be disappointed.\u201d<br><br>-Sigma Rule 352",
+                        "textOriginal": "\u201cNever underestimate your enemy. Always overestimate them and be disappointed.\u201d\n\n-Sigma Rule 352",
+                        "updatedAt": "2022-01-04T09:06:00Z",
+                        "videoId": "2f9yv-T1QNM",
+                        "viewerRating": "none"
+                    }
+                },
+                "totalReplyCount": 4,
+                "videoId": "2f9yv-T1QNM"
+            }
+        }
+    ],
+    "kind": "youtube#commentThreadListResponse",
+    "nextPageToken": "QURTSl9pMFNUbzhUMm9RUER5V1lOYm5vVHBkOHMwMW9HVWpRZkhJd3BkSjlkRmMtRFBpQklvTDllZGYwM1hwMmw1eFRkTlZITEpYZ2ttZlI3eDZ5Mm9GSVFGM0lHcFdDbEpoSDQ3RVRiQm8=",
+    "pageInfo": {
+        "resultsPerPage": 3,
+        "totalResults": 3
+    }
+}
