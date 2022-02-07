@@ -1,5 +1,6 @@
 #the env var file for the dev enviroment
 comment-crawler/dev.env
+response.json
 
 # ##### Part below ist auto-generated from github #####
 # Byte-compiled / optimized / DLL files
