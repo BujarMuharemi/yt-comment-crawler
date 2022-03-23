@@ -13,7 +13,8 @@ with open('comment-crawler\dev.env', 'r') as file:
 youtube = build('youtube', 'v3', developerKey=key)
 
 # search parameters
-videoId = "Vxl3EyA6JIE"
+#videoId = "Vxl3EyA6JIE"
+videoId = "1t9DAxeO6sA"
 resultsPerPage = 100
 noThreads=100
 nextPageToken=None
@@ -31,29 +32,34 @@ while(not endOffPageTokens):
         order="relevance",
         pageToken=nextPageToken
     )
+    try:
+        response = request.execute()
+        
+        # TODO: refactor this into a method
+        for items in response['items']:
+            rawItem = items['snippet']['topLevelComment']['snippet']['textOriginal']
+            rawItem = rawItem.replace('\n', "")  # replace new lines
+            rawItem = " ".join(rawItem.split())  # remove multiple spaces
 
-    response = request.execute()
-    
-    # TODO: refactor this into a method
-    for items in response['items']:
-        rawItem = items['snippet']['topLevelComment']['snippet']['textOriginal']
-        rawItem = rawItem.replace('\n', "")  # replace new lines
-        rawItem = " ".join(rawItem.split())  # remove multiple spaces
+            likeCount = items['snippet']['topLevelComment']['snippet']['likeCount']
+            counter+=1
+            # if(likeCount>10):
+            print("#",counter, rawItem.strip(), "\t likeCount: ", likeCount)
 
-        likeCount = items['snippet']['topLevelComment']['snippet']['likeCount']
-        counter+=1
-        # if(likeCount>10):
-        print("#",counter, rawItem.strip(), "\t likeCount: ", likeCount)
+            #print(response['nextPageToken'])
+            if 'nextPageToken' in response:
+                nextPageToken = response['nextPageToken']
+            else:
+                endOffPageTokens=True
+                break
 
-        #print(response['nextPageToken'])
-        if 'nextPageToken' in response:
-            nextPageToken = response['nextPageToken']
-        else:
-            endOffPageTokens=True
-            break
+        #print("#######\n")
+        i+=1
 
-    #print("#######\n")
-    i+=1
+    except Exception as e:
+        print(e)
+        break
+
 
 youtube.close()
 

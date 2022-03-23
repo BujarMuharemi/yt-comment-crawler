@@ -22,3 +22,5 @@ This part lists  all the tutorials, which were used to setup the python develope
 * **YouTube Data API v3**
     * This [Guide](https://developers.google.com/youtube/v3/getting-started#intro) for getting started with the Google Cloud Platform, setting up a project there and the generating an API key 
     * Installed [Google API Python Client](https://github.com/googleapis/google-api-python-client) for easier API usage (**cmd:** `pip install google-api-python-client`)
+    * [Youtube Data API Reference](https://developers.google.com/youtube/v3/docs)
+        * [CommentThread Doc](https://developers.google.com/youtube/v3/docs/commentThreads/list)
