@@ -1,5 +1,5 @@
-# sigma-rules
-Project for collecting and displaying sigma rules.
+# yt-comments-scrapper (sigma-rules)
+Project for scrapping comments of a youtube video.
 
 *Python Version used: 3.10.2*
 ## Python Development Setup
