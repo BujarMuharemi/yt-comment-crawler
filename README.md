@@ -11,6 +11,10 @@ This part lists  all the tutorials, which were used to setup the python develope
     * [Python Docs](https://docs.python.org/3/library/venv.html) 
     * Command used to install a virtual environment with the chosen python version 
         * ``` C:/Users/"USERNAME HERE"/AppData/Local/Programs/Python/Python310/python -m venv ./.venv ```
+        * or, when the correct version of python ist already installed on the host
+        * ``` /python -m venv ./.venv ```
+    * venv needs to be activated with this command
+        * ``` . .venv/Scripts/activate ```   
     * `"terminal.integrated.inheritEnv": false,` → needs to be added to the settings.json of vs code. So it doesn't use the Python environment of the current system.
     * Package Management
         * `python -m pip install boto3` → install packages
